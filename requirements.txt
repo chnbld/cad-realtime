@@ -1,0 +1,7 @@
+wheel
+tensorflow==2.5.0
+keras==2.4.3
+scipy==1.2.0
+opencv-python==4.5.2.52
+Pillow
+scikit-learn==0.24.2
